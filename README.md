@@ -3,7 +3,7 @@
 A C program that prints a right-aligned pyramid of a given height.
 
 ## How it works
-- Asks the user for a height between 1 and 8
+- Asks the user for a height greater then 0
 - Prints spaces and hashes to form the pyramid
 
 ## What I learned
